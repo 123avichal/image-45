@@ -1,4 +1,7 @@
-flask
 flask_cors
 requests
 bs4
+Flask
+gunicorn
+requests
+flask_socketio
